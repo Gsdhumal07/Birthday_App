@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Birthday_App</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="button">Button</string>
+    <string name="Input_text_hint">Ganesh</string>
+    <string name="Create_Birthday_Card" />
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="user_input_type">Ganesh</string>
+    <string name="enter_your_name_">Enter Your Name</string>
+    <string name="create_birthday_card_">Create Birthday Card</string>
+    <string name="input_hint">Ganesh</string>
+</resources>
